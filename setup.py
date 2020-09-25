@@ -25,7 +25,7 @@ setup(
         python_requires='>=3.5',
         install_requires=[
                 # Add external libraries here.
-                'tensorflow-gpu==1.12.0',
+                'tensorflow-gpu==1.15.4',
                 'numpy',
                 'patool',
                 'opencv-python',
